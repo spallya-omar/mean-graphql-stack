@@ -7,7 +7,7 @@
     "start": "babel-node . --presets es2015,stage-2",
     "dev": "PROCESS_TYPE=web NODE_ENV=development npm start",
     "prod": "PROCESS_TYPE=web NODE_ENV=production npm start",
-    "test": "PROCESS_TYPE=web NODE_ENV=test npm start",
+    "test": "PROCESS_TYPE=web NODE_ENV=test npm start"
   },
   "repository": {
     "type": "git",
